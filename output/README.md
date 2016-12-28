@@ -1,0 +1,1 @@
+This directory is where the output files `assault.json`, and `theft.json` need to be created.
